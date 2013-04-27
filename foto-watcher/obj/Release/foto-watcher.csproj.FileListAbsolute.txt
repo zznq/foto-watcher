@@ -1,0 +1,6 @@
+C:\Projects\foto-watcher\foto-watcher\bin\Release\foto-watcher.exe
+C:\Projects\foto-watcher\foto-watcher\bin\Release\foto-watcher.pdb
+C:\Projects\foto-watcher\foto-watcher\obj\Release\foto-watcher.csprojResolveAssemblyReference.cache
+C:\Projects\foto-watcher\foto-watcher\obj\Release\foto-watcher.exe
+C:\Projects\foto-watcher\foto-watcher\obj\Release\foto-watcher.pdb
+C:\Projects\foto-watcher\foto-watcher\bin\Release\foto-watcher.exe.config
